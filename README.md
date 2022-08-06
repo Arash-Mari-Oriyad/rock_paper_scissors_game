@@ -91,7 +91,7 @@ A short description of each function is available as bellow:
 - *display_stats*: to show the user's stats in terms of win rate,
     number of plays, number of wins, and number of losses. 
   
-## - classes.py
+### - classes.py
 This file contains one class called *RockPaperScissorsGame*.
 This class has following attributes:
 - user_information
@@ -113,7 +113,7 @@ And following methods:
 - play: to start and play the game for the user.
 
 
-## - users.csv
+### - users.csv
 This file contains information about users as follows:
 - name
 - username
